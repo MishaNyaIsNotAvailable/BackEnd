@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Scrum_Board/1.0.0": {
+        "dependencies": {
+          "ScrumBoardLib": "1.0.0"
+        },
+        "runtime": {
+          "Scrum_Board.dll": {}
+        }
+      },
+      "ScrumBoardLib/1.0.0": {
+        "runtime": {
+          "ScrumBoardLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scrum_Board/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScrumBoardLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
